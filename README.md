@@ -1,20 +1,10 @@
-<<<<<<< HEAD
-# Language-Translation
-=======
-# language_translation
+# Language Translation
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Flutter projects are built to run on the Flutter _stable_ release.
+## Sample usage and output
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> ce969b5 (first commit)
+<img src="screenshoot/Screenshot_2025-07-30-11-06-13-55_319d77d13089dcc5e0eca77107b63a94.jpg" alt="image" width="200"/> <img src="screenshoot/Screenshot_2025-07-30-11-06-55-31_319d77d13089dcc5e0eca77107b63a94.jpg" alt="image" width="200"/>
